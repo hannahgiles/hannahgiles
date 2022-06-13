@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hannah, @hannahgiles
-- 👀 I’m interested in VR
-- 🌱 I’m currently learning Python!
+- 👀 I’m interested in VR.
+- 🌱 I’m currently learning Python and Haskell.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
